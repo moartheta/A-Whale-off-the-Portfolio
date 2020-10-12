@@ -1,2 +1,3 @@
 # A-Whale-off-the-Portfolio
-Week 4 Homework
+Gregory Terrinoni
+Week 3 - 4 Python Homework
